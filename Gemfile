@@ -7,7 +7,7 @@ end
 
 gem 'bootstrap', '~> 4.1.1'
 gem 'jquery-rails'
-gem 'devise', '~> 4.4', '>= 4.4.3'
+gem 'devise', '~> 4.7'
 gem "font-awesome-rails"
 gem "paperclip", "~> 6.0.0"
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
